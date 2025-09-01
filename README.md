@@ -12,5 +12,5 @@ elif temp>20 and 29:
     print("It's a warm day. Enjoy the weather!")
 elif temp>10 and 19 :
     print("It's a cool day. Wear a jacket!")
-elif temp<10:
+else:
     print("It's a cold day. Stay warm!")
